@@ -11,6 +11,3 @@ Students may use a JSON file for increasing the generic nature of the YAML code.
 In YAML code, the `${EnvironmentName}` would be substituted with `UdacityProject` accordingly.
 
 
-#### Student Notes
-+ Created a copy of the original project before starting working
- 

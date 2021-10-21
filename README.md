@@ -13,3 +13,7 @@ An editor would be helpful to visualize the image as well as code. Download the 
 
 ##### 3. An account on www.lucidchart.com
 A free user-account on [www.lucidchart.com](www.lucidchart.com) is required to be able to draw the web app architecture diagrams for AWS.
+
+#### Student Notes
++ Created a copy of the original project before starting working
++ Created a copy to start working
