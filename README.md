@@ -19,3 +19,4 @@ A free user-account on [www.lucidchart.com](www.lucidchart.com) is required to b
 + Created a copy to start working
 + Added Diagram under 'project_starter/images/ND9991 - C2- Infrastructure as Code.png'
 + Added 'udagram' content under 'project_starter/images/udagram'
++ Udagram url:  http://stack-webap-1voabkl97vgd4-1944248508.us-west-1.elb.amazonaws.com/

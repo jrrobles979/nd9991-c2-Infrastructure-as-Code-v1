@@ -95,8 +95,7 @@ Resources:
           aws s3 cp s3://my-648224270372-bucket/L03_IaC_Udagram/udagram.zip .
           unzip -o udagram.zip -d /var/www/html
       IamInstanceProfile: !Ref ProfileWithRolesForOurApp
-      ImageId: ami-0d382e80be7ffdae5
-      KeyName: udagram-key-pair
+      ImageId: ami-0d382e80be7ffdae5     
       SecurityGroups:
       - Ref: WebServerSecGroup
       InstanceType: t3.small
