@@ -4,6 +4,11 @@ Description: >
     In this file we configure the servers and S3 configuration to deploy the Udagram app. 
     We follow the same example as the course and the supporting material.
     We deploy:
+     - 1 loadbalancer 
+     - 2 ec2
+     - set the configuration to launch max 4 servers 
+     - add scripts to update latest libraries on ubuntu, download and install apache, 
+       unzip and awscli, download zip files from s3 and unzip it on apache
 
 Parameters:  
 
